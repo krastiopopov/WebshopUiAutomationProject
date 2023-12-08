@@ -1,0 +1,22 @@
+*/target/
+*/bin/
+
+# Files generated at runtime
+*.log
+
+# Compiled source
+*.class
+
+# IntelliJ IDE configuration
+.idea
+*.iml
+
+# Eclipse IDE configuration
+.project
+.classpath
+.metadata
+.settings
+.recommenders
+/target/classes/
+/target/*
+ocm-yoby-mxd
